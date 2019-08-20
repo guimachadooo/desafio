@@ -1,0 +1,25 @@
+.sider-config{
+  overflow: auto;
+  height: 100vh;
+  position: fixed;
+  left: 0;
+}
+
+.logo{
+  background: #fff;
+  width: 100%;
+  height: 65px;
+}
+
+.logo img{
+  display: block;
+  margin: 0 auto;
+}
+
+.nav-link{
+  color: #ccc;
+}
+
+.nav-link:hover{
+  color: #fff;
+}

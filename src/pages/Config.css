@@ -1,0 +1,14 @@
+.layout-content{
+  margin-left: 200px;
+}
+
+.content-container{
+  padding: 24px 0;
+  overflow: initial;
+}
+
+.main-content{
+  border-radius: 5px;
+  background: #fff;
+  text-align: center;
+}
